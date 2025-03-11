@@ -71,5 +71,9 @@ public class Calculadora {
 	public double valorAbsoluto(double valor) {
 		return Math.abs(valor);
 	}
+	
+	public double resto(double a, double b) {
+		return a%b;
+	}
 
 }
