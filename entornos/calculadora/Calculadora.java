@@ -3,8 +3,8 @@ package calculadora;
  * 
  * Programa calculadora: Suma, Resta, Multiplicación, Division, Valor
  * @author Carlos Badia
- * @version version 1.0
- * @since 14/02/2025
+ * @version version 2.0
+ * @since 25/03/2025
  */
 public class Calculadora {
 	private static final double PI = 3.141592;
